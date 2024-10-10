@@ -1,0 +1,10 @@
+pyarrow==17.0.0
+pytesseract==0.3.13
+pillow==10.4.0
+nepalikit==1.0.2
+pandas==2.1.4
+torch==2.4.0
+scikit-image==0.24.0
+opencv-python==4.10.0.84
+streamlit-modal==0.1.2
+streamlit==1.38.0

@@ -1,0 +1,18 @@
+[
+    {
+        "path": "/home/pranjal/Downloads/Document-Management-of-Nepali-Papers/dataset/inference samples/4e3e5c06833b134e1c7db20bae380b9e.jpg",
+        "expected_class": "ID"
+    },
+    {
+        "path": "/home/pranjal/Downloads/Document-Management-of-Nepali-Papers/dataset/inference samples/440929442_1101697334250101_8992430525271154168_n.jpg",
+        "expected_class": "Education"
+    },
+    {
+        "path": "/home/pranjal/Downloads/Document-Management-of-Nepali-Papers/dataset/inference samples/Press-Release-of-Journalist-Student-Organization-Nepal.jpg",
+        "expected_class": "Press_Release"
+    },
+    {
+        "path": "/home/pranjal/Downloads/Document-Management-of-Nepali-Papers/dataset/inference samples/Screenshot from 2024-09-20 20-40-49.png",
+        "expected_class": "Policy"
+    }
+]
