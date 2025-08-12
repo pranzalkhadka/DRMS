@@ -16,14 +16,14 @@ from nepalikit.tokenization import Tokenizer
 # model_path = os.path.join(os.getcwd(), 'Classification\Resources', 'nepali_text_classification_model.pth')
 # stopwords_path = os.path.join(os.getcwd(), 'Classification\Resources', 'NepaliStopWords')
 
-vocab_file = "app/tokenizer_vocab.json"
-model_path = "app/nepali_text_classification_model.pth"
-stopwords_path = "app/NepaliStopWords"
+# vocab_file = "app/tokenizer_vocab.json"
+# model_path = "app/nepali_text_classification_model.pth"
+# stopwords_path = "app/NepaliStopWords"
 
 
-# vocab_file = "tokenizer_vocab.json"
-# model_path = "nepali_text_classification_model.pth"
-# stopwords_path = "NepaliStopWords"
+vocab_file = "tokenizer_vocab.json"
+model_path = "nepali_text_classification_model.pth"
+stopwords_path = "NepaliStopWords"
 
 # vocab_file = os.path.join('app', 'tokenizer_vocab.json')
 # model_path = os.path.join('app', 'nepali_text_classification_model.pth')
