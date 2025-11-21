@@ -16,9 +16,3 @@ This project aims to address these challenges by developing a DRMS that leverage
 1. **Digitization of Nepali Documents**: Utilize Tesseract OCR technology to convert physical Nepali documents and images into digital format, preserving their content.
 2. **Automated Document Classification**: Develop an automated document classifier using Bi-LSTM to categorize documents based on their content, reducing reliance on manual classification processes.
 3. **Enhanced Information Retrieval**: Enable users to conduct full-text searches on document contents, allowing for quick and efficient location of relevant documents.
-## Contributors
-[**Arun Poudel**](https://github.com/poudelarun) - Built Image Preprocessing Pipeline, Dataset Preparation, Streamlit Development
-
-[**Pranjal Khadka**](https://github.com/pranzalkhadka) - Built Document Classification Model, Docker Containerization and Project Deployment
-
-[**Samip Lamsal**](https://github.com/lamsalsamip1) - Fine Tuned Tesseract OCR, Built Augmentation Pipeline and Content-based Search
